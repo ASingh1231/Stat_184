@@ -21,28 +21,28 @@ Ajay Singh
 
 The Body mass index (BMI) is a method of categorizing the weights of people using their height and weight. The AVG is the average of the three on court statistics for each player(Points,Assists, and Rebounds) used to determine how good the player's performance is overall.
 
-<center>
-<font size ="5"> Averages of Stats </font>
-</center>
+
 |    Height|    Weight|       Age|       BMI|  Points\_per\_Game|   Assists|  Rebounds|  Overall\_Performance|
 |---------:|---------:|---------:|---------:|------------------:|---------:|---------:|---------------------:|
 |  79.09877|  220.1214|  26.84774|  25.26232|           8.426749|  1.830247|  3.565226|              4.607407|
+
+Averages for the Data in the table
 
 Density Plots for Physical Charateristics
 -----------------------------------------
 
 <img src="NBA_Players_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-8-1.png" style="display: block; margin: auto;" /><img src="NBA_Players_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-8-2.png" style="display: block; margin: auto;" /><img src="NBA_Players_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-8-3.png" style="display: block; margin: auto;" /><img src="NBA_Players_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-8-4.png" style="display: block; margin: auto;" /><img src="NBA_Players_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-8-5.png" style="display: block; margin: auto;" />
 
-|     |                                       | from | to   |
-|-----|---------------------------------------|:-----|:-----|
-| 2   | Very severely underweight             | 0    | 15   |
-| 3   | Severely underweight                  | 15   | 16   |
-| 4   | Underweight                           | 16   | 18.5 |
-| 5   | Normal (healthy weight)               | 18.5 | 25   |
-| 6   | Overweight                            | 25   | 30   |
-| 7   | Obese Class I (Moderately obese)      | 30   | 35   |
-| 8   | Obese Class II (Severely obese)       | 35   | 40   |
-| 9   | Obese Class III (Very severely obese) | 40   | inf  |
+|   Category of Weight                  | From | To   |
+|---------------------------------------|:-----|:-----|
+| Very severely underweight             | 0    | 15   |
+| Severely underweight                  | 15   | 16   |
+| Underweight                           | 16   | 18.5 |
+| Normal (healthy weight)               | 18.5 | 25   |
+| Overweight                            | 25   | 30   |
+| Obese Class I (Moderately obese)      | 30   | 35   |
+| Obese Class II (Severely obese)       | 35   | 40   |
+| Obese Class III (Very severely obese) | 40   | inf  |
 
 According to this table by the [WHO](http://apps.who.int/bmi/index.jsp?introPage=intro_3.html) most NBA Players are overweight so this shows BMI is not the best charateristic to use.
 
